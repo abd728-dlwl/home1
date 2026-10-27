@@ -1,0 +1,36 @@
+table {
+  border: 3px solid black;
+  width: 80%;
+  margin: auto;
+}
+td {
+  border: 1px solid black;
+  width: 12%;
+  height: 50px;
+  font-size: 10px;
+  text-align: center;
+  color: rgb(15, 14, 13);
+  background-color: #e0a556;
+}
+.f {
+  background-color: yellow;
+}
+.h {
+  background-color: green;
+}
+.h1 {
+  background-color: yellow;
+}
+.h2 {
+  background-color: white;
+  text-align: center;
+  font-size: 40px;
+}
+.d {
+  background-color: rgb(179, 175, 175);
+  color: green;
+  text-align: center;
+}
+.d1 {
+  color: #a06d29;
+}

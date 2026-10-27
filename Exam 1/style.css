@@ -1,0 +1,87 @@
+
+.s1{
+    background-color: red;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    padding: 7%;
+}
+.s2{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    display: inline;
+    padding: 8px;
+}
+.s3{
+    width: 40%;
+    background-color: white;
+    color: black;
+    padding: 7%;
+    font-size: 20px;
+    text-align: left;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.s4{
+    font-size: 15px;
+    color: rgb(107, 102, 102);
+    padding: 2px;
+}
+.d{
+    margin-top: -580px;
+    margin-left: 650px;
+    background-color: white;
+    padding: 5px;
+}
+.s5{
+    
+    background-color: white;
+    width: 40%;
+    color: black;
+    padding: 6%;
+    font-size: 20px;
+    text-align: justify;
+    display: block;
+    margin-top: -570px; 
+    margin-left: 590px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.s6{
+    font-size: 15px;
+    color: rgb(107, 102, 102);
+    padding: 8px;
+}
+.s7{
+    background-color: rgb(143, 142, 142);
+    color: rgb(252, 249, 249);
+    padding: 80px;
+    text-align: center;
+}
+.u{
+    background-color: white;
+    color: rgb(14, 13, 13);
+    padding: 80px;
+    text-align: center;
+}
+.sl{
+    background-color: red;
+    color: white;
+
+}
+.ssl{
+    background-color: white;
+    color: black;
+    display: block;
+}
+.f{
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+    margin-left: 100px;
+}
+.table{
+    border: 1px solid black;
+    width: 100px;
+}
+

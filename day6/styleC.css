@@ -1,0 +1,29 @@
+.d{
+    width: 600px;
+    height: 500px;
+    input{
+        width: 75%;
+    }
+}
+.d1{
+    font-size: 30px;
+    color: black;
+}
+input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+.d2{
+    font-size: 25px;
+    color: rgb(77, 75, 75);
+    padding: 30px;
+}
+.d3{
+    color: rgb(3, 3, 3);
+    width: 55%;
+    height: 30%;
+    padding: 30px;
+    font-size: 20px;
+    margin-left: 25px;
+}

@@ -1,0 +1,15 @@
+.a1{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.a2{
+    width: 40%;
+    height: 300px;
+    margin-left: 700px;
+}
+

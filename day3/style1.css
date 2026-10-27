@@ -1,0 +1,121 @@
+.s {
+  background-color: rgb(191, 164, 218);
+  color: rgb(2, 2, 2);
+  text-align: center;
+  padding: 15px;
+  border-radius: 30px;
+  height: 100px;
+  margin: 1%;
+}
+.sl {
+  background-color: rgb(172, 238, 238);
+  color: rgb(2, 2, 2);
+  text-align: left;
+  padding: 15px;
+  border-radius: 30px;
+  height: 150px;
+  margin: 1%;
+}
+.sss {
+  background-color: rgb(236, 241, 152);
+  color: rgb(2, 2, 2);
+  text-align: left;
+  padding: 15px;
+  border-radius: 30px;
+  margin: 1%;
+}
+.ssss {
+  background-color: rgb(134, 223, 134);
+  color: rgb(2, 2, 2);
+  text-align: left;
+  padding: 15px;
+  border-radius: 30px;
+  height: 200px;
+  margin: 1%;
+}
+.d {
+  background-color: rgb(233, 169, 181);
+  color: rgb(2, 2, 2);
+  text-align: left;
+  padding: 15px;
+  border-radius: 30px;
+  margin: 1%;
+}
+.dd {
+  background-color: rgb(235, 76, 76);
+  color: black;
+  text-align: left;
+  padding: 10px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 10px rgb(32, 31, 31);
+}
+.ddd {
+  background-color: rgb(85, 161, 212);
+  color: black;
+  text-align: justify;
+  padding: 10px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 10px rgb(32, 31, 31);
+}
+.dddd {
+  background-color: rgb(110, 247, 110);
+  color: black;
+  text-align: center;
+  padding: 10px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 10px rgb(32, 31, 31);
+}
+.f {
+  background-color: rgb(201, 159, 240);
+  color: black;
+  text-align: right;
+  padding: 10px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 10px rgb(32, 31, 31);
+}
+.ff {
+  background-color: rgb(255, 234, 116);
+  color: black;
+  text-align: right;
+  padding: 10px;
+  border-radius: 30px;
+  box-shadow: 5px 5px 10px rgb(32, 31, 31);
+}
+.ssss img {
+  margin-top: -120px;
+  margin-left: 600px;
+  width: 600px;
+  height: 150px;
+}
+.o {
+  background-color: black;
+  width: 100px;
+  height: 200px;
+  border-radius: 20px;
+  margin-left: 700px;
+  margin-top: -180px;
+}
+.i {
+  background-color: red;
+  border-radius: 100%;
+  padding: 15px;
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+}
+.v {
+  background-color: rgb(200, 255, 0);
+  border-radius: 100%;
+  padding: 15px;
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+}
+.m {
+  background-color: rgb(15, 121, 20);
+  border-radius: 100%;
+  padding: 15px;
+  height: 20px;
+  width: 20px;
+  margin-left: 20px;
+}

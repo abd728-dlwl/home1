@@ -1,0 +1,22 @@
+*{
+    max-width: 1400px;
+}
+.sectiona1{
+    background-color: rgba(240, 34, 40, 1);
+    height: 800px;
+    .a2{
+        color: white;
+        font-size: 40px;
+    }
+    nav{
+        display: flex;
+        align-items: center;
+        gap: 40px;
+        .ul{
+            display: flex;
+            gap: 30px;
+            list-style: none;
+            color: white;
+        }
+    }
+}

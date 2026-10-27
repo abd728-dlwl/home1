@@ -1,0 +1,56 @@
+div{
+  background-color: aqua; 
+  color: darkblue; 
+  text-align: left;
+  border: 10px solid rgb(49, 175, 175);
+  padding: 20px;
+}
+.ss{
+    background-color: rgb(132, 235, 132);
+    color: rgb(17, 121, 17);
+    text-align: left;
+    border: 10px solid rgb(53, 175, 53);
+    padding: 20px;
+}
+.dd{
+    background-color: #fadb29;
+    color: #a58e0e;
+    text-align: left;
+    border: 10px solid #615617;
+    padding: 20px;
+}
+.ff{
+    background-color: rgb(248, 118, 144);
+    color: rgb(161, 55, 5);
+    text-align: left;
+    border: 10px solid rgb(255, 33, 78);
+    padding: 20px;
+}
+.ww{
+    background-color: aqua;
+    color: rgb(9, 116, 80);
+    text-align: left;
+    border: 10px solid rgb(11, 102, 102);
+    padding: 10px;
+}
+.ee{
+    background-color: rgb(145, 240, 50);
+    color: darkgreen;
+    text-align: center;
+    border: 10px solid rgb(126, 209, 44);
+    padding: 10px;
+}
+.rr{
+    background-color: blueviolet;
+    color: rgb(64, 12, 112);
+    text-align: right;
+    border: 10px solid rgb(48, 6, 87);
+    padding: 10px;
+}
+.aa{
+    background-color: blueviolet;
+    color: rgb(72, 2, 138);
+    text-align: left;
+    border: 10px solid rgb(39, 11, 65);
+    padding: 20px;
+}

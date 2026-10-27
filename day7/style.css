@@ -1,0 +1,258 @@
+
+*{
+    margin: 0;
+}
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color: #19050A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Rocketeer{
+    width: 110px;
+    height: 33px;
+    font-weight: 500;
+    font-size: 24px;
+    font-family: 'Vollkorn', serif;
+    color: #F2F2F2;
+    margin-left: 30px;
+}
+
+.a1{
+    height: 750px;
+    background-color: #19050A;}
+
+.home{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    color: #F2F2F2;
+    display: flex;
+    margin-right: 30px;
+    gap: 40px;
+}
+
+.right{
+    width: 50%;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+.the{
+    width: 550px;
+    height: 220px;
+    font-weight: 300;
+    font-size: 90px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+}
+
+.helmet{
+    width: 550px;
+    height: 90px;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    margin-top: 40px;
+}
+
+.your{
+    width: 400px;
+    height: 21px;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    margin-top: 80px;
+}
+
+.enter{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-top: 15px;
+}
+
+.submit-btn{
+    width: 200px;
+    height: 45px;
+    background-color: #3E8BC4;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.type{
+    width: 400px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+    background-color: #59020980;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    
+}
+.left{
+    width: 50%;
+    height: 680px;
+}
+
+.left img{
+    width: 90%;
+    height: 100%;
+    margin-left: 60px;
+}
+
+.a2{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.about{
+    height: 1080px;
+    background-color: #19050A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-box{
+    width: 1000px;
+    height: 650px;
+    background-image: url("./Image.png");   
+    padding: 60px 120px;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+}
+.about-box img{
+    width: 70%;
+}
+.about-box h2{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.about-box h3{
+    font-size: 32px;
+    font-weight: 400;
+    margin-top: 20px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.about-box p{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 20px;
+    margin-top: 100px;
+}
+.img-text{
+    height: 1080px;
+    margin: auto;
+    background-color: #19050A;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.a3-box h2{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 590px;
+    height: 42px;
+    font-weight: 500;
+    font-size: 36px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+}
+.section3-box p{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 630px;
+    height: 112px;
+    font-weight: 300;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+.buy-btn{
+    background-color: #024959B2;
+    border: none;
+    width: 224px;
+    height: 56px;
+    border-radius: 16px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+}
+.b1 {
+    width: 1400px;
+    height: 1080px;
+    background-color: #19050A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.b2 {
+    width: 350px;
+    height: 560px;
+    border-radius: 32px;
+    background-color: #080609;
+    box-shadow: 0 0 20px #590209;
+    color: white;
+    text-align: center;
+}
+
+.b3 {
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.b4 {
+    width: 300px;
+    height: 220px;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    margin: auto;
+}
+
+.sum {
+    color: #F2F2F2;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 25px;
+}
+.s1{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+}
+.ss1{
+    width: 100%;
+    background-color: #19050A;
+}
+.d1{
+    color: white;
+}
+.d2{
+    color: white;
+}

@@ -1,0 +1,28 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(29, 5, 16);
+    transition: calc(5);
+    animation: move 2s infinite;
+    transform: rotate(100deg);
+}
+div:hover{
+    background-color: rgb(29, 3, 15);
+}
+@keyframes move {
+    form{
+        transform: translatex(0px);
+    }
+    to{
+        transform: translateX(1000px);
+    }
+}
+.a1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(29, 5, 16);
+    transition: calc(5);
+    animation: move 2s infinite;
+    transform: rotate(100deg);
+    border-radius: 50%;
+}
